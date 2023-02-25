@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/contrib/poi-ruby/java"/>
+	<classpathentry kind="src" path="src/contrib/src"/>
+	<classpathentry kind="src" path="src/examples/src"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="src/ooxml/java"/>
+	<classpathentry kind="src" path="src/ooxml/testcases"/>
+	<classpathentry kind="src" path="src/scratchpad/src"/>
+	<classpathentry kind="src" path="src/scratchpad/testcases"/>
+	<classpathentry kind="src" path="src/testcases"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.apache.xmlbeans-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-contrib-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-examples-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.6-20091214.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
